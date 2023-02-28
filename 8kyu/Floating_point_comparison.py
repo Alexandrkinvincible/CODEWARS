@@ -29,3 +29,5 @@ def approx_equals(a, b):
 
 approx_equals(-2.2345, -2.234489)
 print(approx_equals(-2.2345, -2.234489))
+
+# Passed
